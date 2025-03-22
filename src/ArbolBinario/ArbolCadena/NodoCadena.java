@@ -1,6 +1,6 @@
 package ArbolBinario.ArbolCadena;
 
-import umg.demostracion.ArbolBinario.Nodo;
+import ArbolBinario.Nodo;
 
 public class NodoCadena {
     protected String dato;
